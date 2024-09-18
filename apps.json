@@ -9,7 +9,7 @@
             "iconURL": "https://exemplo.com/icon.png", 
             "tintColor": "color(hex)", 
             "size": 50000, 
-            "downloadURL": "https://github.com/euglitch/source-app/blob/1466b838a989f29372bc987b0abd9ca0ccfa4170/ios-ipas/PureKFD%202.ipa", 
+            "downloadURL": "https://github.com/euglitch/source-app/blob/main/ios-ipas/PureKFD%202.ipa", 
             "screenshotURLs": [
                 "https://exemplo.com/screenshot1.png",
                 "https://exemplo.com/screenshot2.png"
