@@ -6,13 +6,13 @@
             "developerName": "euglitchr",
             "version": "1.0",
             "localizedDescription": "Descrição do aplicativo.",
-            "iconURL": "https://raw.githubusercontent.com/SEU_USUARIO/altstore-source/main/icon.png",
+            "iconURL": "https://raw.githubusercontent.com/euglitch/source-app/main/icon.png",
             "tintColor": "#FF5733",
             "size": 50000000,
             "downloadURL": "https://github.com/euglitch/source-app/raw/main/ios-ipas/PureKFD%202.ipa",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/SEU_USUARIO/altstore-source/main/screenshot1.png",
-                "https://raw.githubusercontent.com/SEU_USUARIO/altstore-source/main/screenshot2.png"
+                "https://raw.githubusercontent.com/euglitch/source-app/main/screenshot1.png",
+                "https://raw.githubusercontent.com/euglitch/source-app/main/screenshot2.png"
             ],
             "beta": false
         }
